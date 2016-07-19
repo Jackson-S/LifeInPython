@@ -1,3 +1,1 @@
-Conway's Game Of Life for the terminal emulator written in Python,
-python 2 and 3 compatible, does not include graphical output, only
-calculates steps and returns nested lists with those strings.
+Conway's Game Of Life for pygame. Outputs via pygame. Resolution can be specified on command line at launch
